@@ -1,0 +1,22 @@
+{
+  "name": "lance-prerender",
+  "version": "0.1.0",
+  "description": "Prerender lance pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joust-dev/lance-prerender"
+  },
+  "author": "Ben Robbins <ben.robbins@gmail.com> (https://b3nj4m.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joust-dev/lance-prerender/issues"
+  },
+  "homepage": "https://github.com/joust-dev/lance-prerender",
+  "dependencies": {
+    "prerender": "^3.15.2"
+  }
+}
