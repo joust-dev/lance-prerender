@@ -15,4 +15,4 @@ In lance-prerender:
 ./index.js
 ```
 
-In browser: add `?_escaped_fragment_=` to the end of your URL.
+In browser: add `?_escaped_fragment_=` to the end of your URL to route it through prerender.
